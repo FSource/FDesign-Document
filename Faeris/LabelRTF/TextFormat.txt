@@ -1,0 +1,6 @@
+[size:50][color:3FFFFF]my name is {[size:30]chenlin}
+
+TextParser:
+	[]:command, set parser state 
+	{:push state 
+	}: pop state
