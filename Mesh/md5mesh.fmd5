@@ -1,0 +1,10 @@
+meshUrl="bob_lamp_update.md5mesh"
+
+animations: [
+	{
+		name: "jump"
+		frameRate : 24 
+		url:"bob_lamp_update.md5anim"
+	}
+]
+

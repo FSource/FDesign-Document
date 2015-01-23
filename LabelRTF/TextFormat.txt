@@ -2,5 +2,19 @@
 
 TextParser:
 	[]:command, set parser state 
+		size:30
+		color:ffffff
+		font:xxxxx/sfsf.ttf 
+		rb 
+		lb 
+		rsb 
+		lsb 
+
 	{:push state 
 	}: pop state
+
+
+
+
+"[lb][rb][][size:40][color:3fFFFFF]my name is chenlin{[size:30]chenlin}"
+
